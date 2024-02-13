@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "learn backend web dev",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "backend",
+    "learn"
+  ],
+  "author": "Aditya Prakash",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.3",
+    "express": "^4.18.2"
+  }
+}
